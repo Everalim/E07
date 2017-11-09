@@ -14,8 +14,8 @@ public class Run {
 //        gruzovoj.gruz(3);
 //        gruzovoj.gruz(3);
 //
-//        civil.person(200);
-//        civil.person(50);
+        civil.person(200);
+        civil.person(50);
 
         military.shot(4);
         military.shot(5);
